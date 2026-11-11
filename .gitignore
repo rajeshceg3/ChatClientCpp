@@ -32,3 +32,5 @@
 *.app
 
 artifacts/verification/
+__pycache__/
+*.pyc
